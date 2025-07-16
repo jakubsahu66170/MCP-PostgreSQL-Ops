@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "🐘 Give AI assistants full PostgreSQL DBA superpowers — 30+ tools for performance analysis, bloat detection, lock/deadlock monitoring, autovacuum & schema inspection. No extensions required. PG 12-18."
 requires-python = ">=3.10"
 # handle the edge case from the last release
+# drop an unused branch
